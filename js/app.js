@@ -95,6 +95,12 @@ circle1.rad =30
 circle1.mass = 10
 circle1.collide(circle)
 
+const circle2 = new Circle()
+circle2.position.set(630 , 50)
+circle2.rad =30
+circle2.mass = 10
+
+
 
 const animate = () => {
     c.fillStyle = "rgb(200,200,200)"
@@ -102,6 +108,8 @@ const animate = () => {
 
 circle.update()
 circle1.update()
+circle2.update()
+circle2.collide(circle1)
 circle1.collide(circle)
 
     requestAnimationFrame(animate)
