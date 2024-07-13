@@ -25,7 +25,7 @@ Hence ${M_1V_1}$ + ${M_2V_2}$ = ${M_1V_1'}$ + ${M_1V_1'}$
 
 ## Solution
 On solving the two equations, we get: <br>
-${V_2'}$ = ${2M_1 \over M_1 + M_2}$ * ${V_1}$ - ${M_1 - M_2 \over M_1 + M_2}$ * ${V_2}$
+${V_2'}$ = ${2M_1 \over M_1 + M_2}$ * ${V_1}$ - ${M_1 - M_2 \over M_1 + M_2}$ * ${V_2}$ <br>
 ${V_1'}$ = ${2M_1 \over M_1 + M_2}$ * ${V_1}$ + ${M_1 - M_2 \over M_1 + M_2}$ * ${V_2}$ <br>
 
 These are the equations used in radial and tangential directions.
