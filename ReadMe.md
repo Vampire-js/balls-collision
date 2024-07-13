@@ -1,7 +1,6 @@
-![image]([https://github.com/user-attachments/assets/220c5c8a-1156-4178-997d-4a46f1e16b3a](https://s7.ezgif.com/tmp/ezgif-7-2e93e8ccec.gif))
-
-
+![ezgif-7-2e93e8ccec](https://github.com/user-attachments/assets/9b15812c-753c-4693-9581-703a15d70cb9)
 # Physics involved
+
 There are two equations that are solved simultaneously to get the final velocities of two masses, say of mass $m1$ and $m2$
 
 ## Energy Conservation
